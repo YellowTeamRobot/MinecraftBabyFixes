@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Retextures and remodels of several baby mobs to improve their look while maintaining the vanilla style.",
+        "name": "Better Baby Mobs",
+        "uuid": "1362f11d-72d5-4fe9-b369-332a159c576c",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 26, 10 ]
+    },
+    "modules": [
+        {
+            "description": "Retextures and remodels of several baby mobs to improve their look while maintaining the vanilla style.",
+            "type": "resources",
+            "uuid": "77e10cb2-2c07-4047-a606-d6f38841f3a7",
+            "version": [0, 0, 1]
+        }
+    ]
+}
